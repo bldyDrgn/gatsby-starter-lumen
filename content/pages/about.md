@@ -5,7 +5,7 @@ slug: about
 socialImage: /media/image-2.jpg
 draft: false
 ---
-Hello everyone, this is about me. I am a web developer and like exploring things in my free time. Please hit me up if you are available and want to talk about something.
+Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis.
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 
