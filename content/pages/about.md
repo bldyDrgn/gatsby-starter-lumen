@@ -3,7 +3,7 @@ template: page
 title: About me
 slug: about
 socialImage: /media/image-2.jpg
-draft: true
+draft: false
 ---
 Hello everyone, this is about me. I am a web developer and like exploring things in my free time. Please hit me up if you are available and want to talk about something.
 
